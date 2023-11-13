@@ -1,0 +1,11 @@
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\bin\Debug\BreakVeContinue.exe
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\bin\Debug\BreakVeContinue.pdb
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\BreakVeContinue.Form1.resources
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\BreakVeContinue.Properties.Resources.resources
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\BreakVeContinue.exe
+C:\Users\MO-04\Desktop\BreakVeContinue\BreakVeContinue\obj\x86\Debug\BreakVeContinue.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\21.GÜN\BreakVeContinue\BreakVeContinue\obj\x86\Debug\BreakVeContinue.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\21.GÜN\BreakVeContinue\BreakVeContinue\obj\x86\Debug\BreakVeContinue.pdb

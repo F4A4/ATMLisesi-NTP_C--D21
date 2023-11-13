@@ -1,0 +1,11 @@
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\bin\Debug\BilesikAtamaOperatorleri.exe
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\bin\Debug\BilesikAtamaOperatorleri.pdb
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.Form1.resources
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.Properties.Resources.resources
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.exe
+C:\Users\ogr\Desktop\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\21.GÜN\20121113\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\21.GÜN\20121113\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\21.GÜN\20121113\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\21.GÜN\20121113\BilesikAtamaOperatorleri\BilesikAtamaOperatorleri\obj\x86\Debug\BilesikAtamaOperatorleri.pdb
